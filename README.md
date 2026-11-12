@@ -1,4 +1,4 @@
-# Hi, I’m Christopher
+# Hi, I’m Chris
 
 CS & Math student @ Stanford. ctang08 [dot] stanford [dot] edu.
 
