@@ -4,7 +4,7 @@ CS & Math student @ Stanford. ctang08 [dot] stanford [dot] edu.
 
 ## Currently working on
 
-Currently doing NLP research at Stanford’s Open Virtual Assistant Lab.
+I'm doing NLP research at Stanford’s Open Virtual Assistant Lab.
 
 ## Past projects
 
