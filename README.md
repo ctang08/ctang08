@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I’m Christopher 👋
+
+I study CS at Stanford.
+
+## Currently working on
+
+Currently doing NLP research at Stanford’s Open Virtual Assistant Lab.
+
+## Past projects
+
+- [Debatify](https://debatify.app) — A research tool for debaters, reaching 30,000+ users.
+- [Nebulab](https://nebulab.ai) — A prototype sleep mask that reads EEG signals and uses gentle vibrations to help you wake up.
 
 <!--
 **ctang08/ctang08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
