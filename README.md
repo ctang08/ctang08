@@ -1,6 +1,6 @@
 # Hi, I’m Christopher
 
-I study CS at Stanford.
+CS & Math student @ Stanford. ctang08 [dot] stanford [dot] edu.
 
 ## Currently working on
 
