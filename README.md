@@ -1,4 +1,4 @@
-# Hi, I’m Christopher 👋
+# Hi, I’m Christopher
 
 I study CS at Stanford.
 
